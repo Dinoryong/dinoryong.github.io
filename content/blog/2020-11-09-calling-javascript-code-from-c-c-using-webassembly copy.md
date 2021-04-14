@@ -1,18 +1,21 @@
 ---
 template: BlogPost
-slug: /learning python language by algorithms
-date: 2021-04-14T13:19:34.627Z
-title: Learning Python language by Algorithms
+slug: /calling-javascript-code-from-cpp-using-webassembly
+date: 2020-11-09T13:19:34.627Z
+title: Calling JavaScript code from C/C++ using WebAssembly
 tags:
-  - algorithms
-  - data structures
-  - python
+  - javascript
+  - webassembly
+  - emscripten
+  - c++
+  - c
 metaDescription: >-
-  I'm currently learning about python.
-
+  Learn how to call C/C++ inside JavaScript code using WebAssembly. In this
+  article, we will be discussing different approaches using Emscripten and
+  without using Emscripten.
 thumbnail: /images/pexels-flickr-149767.jpg
 ---
-In the last blog post, we talked about [calling C/C++ code from JavaScript using WebAssembly and Emscripten](https://thecodedose.com/blog/loading-webassembly-modules-in-javascript). Today, we will be discussing how to learn python language by studying algorithms
+In the last blog post, we talked about [calling C/C++ code from JavaScript using WebAssembly and Emscripten](https://thecodedose.com/blog/loading-webassembly-modules-in-javascript). Today, we will be discussing how to call JavaScript code from C/C++ with and without Emscripten.
 
 # Using the import object
 
